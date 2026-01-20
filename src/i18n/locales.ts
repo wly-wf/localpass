@@ -26,7 +26,7 @@ const translations: Record<Locale, TranslationValue> = {
       searchPlaceholder: '搜索网站、账号、标签...',
       addButton: '添加密码',
       emptyTitle: '暂无密码',
-      emptySubtitle: '点击右上角添加您的第一个密码',
+      emptySubtitle: '点击右下角+号添加密码。',
       lockButton: '锁定',
       settingsButton: '设置'
     },
